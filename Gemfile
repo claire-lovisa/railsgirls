@@ -74,3 +74,6 @@ gem "bootstrap_form", ">= 4.0.0"
 
 # Authentication via Devise
 gem 'devise'
+
+# Avatar via Gravtastic
+gem 'gravtastic'
