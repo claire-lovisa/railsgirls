@@ -71,3 +71,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Bootstrap form
 gem "bootstrap_form", ">= 4.0.0"
+
+# Authentication via Devise
+gem 'devise'
