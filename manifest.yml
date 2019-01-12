@@ -1,0 +1,5 @@
+---
+applications:
+- name: railsgirls
+  memory: 512M
+  instances: 1
